@@ -18,4 +18,12 @@ Dataset link:https://github.com/adityachaudhary4444/zomato-restaurant-analytics/
 
 📊 Rating vs Cost Analysis – checks correlation between pricing and customer ratings
 
+## Project Process
+1. **Data Collection:** Collected Zomato restaurant dataset.  
+2. **Data Cleaning:** Removed duplicates, handled missing values, standardized columns.  
+3. **Data Analysis:** Calculated key metrics like average rating, cost, and customer votes.  
+4. **Insights & Visualization:** Created charts, tables, and top/bottom restaurant lists to derive actionable insights.  
+5. **Documentation:** Summarized findings and KPIs in this project repository.
+
+
 
