@@ -26,6 +26,19 @@ Dataset link:https://github.com/adityachaudhary4444/zomato-restaurant-analytics/
 4. **Insights & Visualization:** Created charts, tables, and top/bottom restaurant lists to derive actionable insights.  
 5. **Documentation:** Summarized findings and KPIs in this project repository.
 
+##Tools Used
+-Microsoft Excel
+
+##Project Insights
+- Higher-cost restaurants do not always have higher ratings.  
+- Customer votes strongly correlate with restaurant popularity.  
+- Top cuisines based on ratings: Italian, Continental, and Fast Food.  
+- Restaurants with low ratings often have fewer votes, indicating low engagement.
+
+##Final Conclusion
+## Final Conclusion
+This analysis of Zomato restaurant data using Excel highlights that ratings, cost, and customer votes provide valuable insights into restaurant performance. The findings can help business stakeholders make data-driven decisions on pricing, promotion, and customer engagement strategies.
+
 
 
 
