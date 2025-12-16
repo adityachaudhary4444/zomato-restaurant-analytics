@@ -1,2 +1,3 @@
-# zomato-restaurant-analytics
-End-to-end Excel analysis of Zomato restaurant data, from raw dataset to insights on ratings, cost, and customer voting behavior.
+#Zomato Restaurant Analytics: Ratings, Cost & Vote Trends
+##Project Objective
+To analyze Zomato restaurant data using Excel in order to understand how ratings, average cost, and customer votes influence restaurant performance and support data-driven decision making.
