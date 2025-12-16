@@ -5,16 +5,17 @@ To analyze Zomato restaurant data using Excel to understand how ratings, average
 
 Dataset link:https://github.com/adityachaudhary4444/zomato-restaurant-analytics/blob/main/last%20db.xlsx
 
-## Questions(KPIs)
+## Questions(KPIs)ratings
+
 ⭐ Average Restaurant Rating – measures overall customer satisfaction
 
 💸 Average Cost for Two – analyzes pricing patterns across restaurants
 
-👍 Total Customer Votes – indicates popularity and engagement
+👍 Average Customer Votes – indicates popularity and engagement
 
-🏆 Top 10 Restaurants by Rating – highlights best-performing restaurants
+🏆 Top 10 Cuisines by Rating – highlights best-performing restaurants
 
-⬇️ Bottom 10 Restaurants by Rating – identifies restaurants needing improvement
+📈 Rating vs Votes Analysis – evaluates how customer engagement relates to ratings
 
 📊 Rating vs Cost Analysis – checks correlation between pricing and customer ratings
 
